@@ -1,0 +1,1 @@
+start server\bin\mysql.exe -u root -P 6033
